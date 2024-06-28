@@ -1,4 +1,7 @@
-## Hi there 👋
+### Languages and tecnologies:
+- C / C++, OpenMP, CUDA;
+- C#, Unity, LibHarmony;
+- JavaScript, NodeJS;
 
 <!--
 **eduardo-kurek/eduardo-kurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
